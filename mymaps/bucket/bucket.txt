@@ -1,0 +1,1 @@
+-file "/Users/yvesgurcan/Jeux/Doom/doomstuff/tnt.wad" -file "/Users/yvesgurcan/Jeux/Doom/doomstuff/plutonia.wad" -file "/Users/yvesgurcan/Jeux/Doom/doomstuff/mymaps/bucket/bucket.wad" 
